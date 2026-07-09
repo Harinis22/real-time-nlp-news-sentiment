@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+textblob
+scikit-learn
+plotly
+wordcloud
+matplotlib
+python-dotenv
